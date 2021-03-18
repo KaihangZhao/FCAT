@@ -1,2 +1,3 @@
-# FCAT
-FCAT Semantic Web
+# FCAT Semantic Web
+
+### Use Case: Gamestop & Robinhood
